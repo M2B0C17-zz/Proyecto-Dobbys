@@ -1,0 +1,142 @@
+*{
+	font-family: 'Montserrat', sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	background-color: #dfdfdf;
+}
+
+.franjaverde{
+	background-color: #009688;
+	height: 100px;
+}
+
+.cajaChat{
+	width: 80%;
+	height: 86vh;
+	margin-top: -86px;
+}
+
+.cajitaBarra{
+	height: 45px;
+	background-color: #eeeeee;
+}
+
+.parte2{
+	border-left: 1px solid lightgray;
+}
+
+.imgCiruclo{
+	margin-top: 3px;
+	height: 40px;
+	border: 1px solid transparent;
+	border-radius: 20px;
+}
+
+.imgmensajeicon{
+	height: 20px;
+	margin-left: 73%;
+}
+
+.trespuntosicon{
+	height: 20px;
+	margin-left: 11px;
+}
+
+.textName{
+	color: gray;
+	font-size: 10px;
+	width: 200px;
+	margin-left: 10px;
+}
+
+.titConversacion{
+	font-size: 12px;
+	font-weight: bold;
+	width: 269px;
+	margin-top: -34px;
+	margin-left: 55px;
+}
+
+.textConversacion{
+	margin-top: -19px;
+	margin-left: 55px;
+	width: 271px;
+}
+
+.parte3{
+	margin-left: 83%;
+	height: 20px;
+}
+
+.icondos{
+	margin-top: 11px;
+	margin-left: 15px;
+}
+
+.iconuno{
+	margin-top: 11px;
+}
+
+.parteusuarios{
+	background-image: url(../Desafio/image/fondoChat.jpg);
+	height: 66vh;
+}
+
+.enlaceConversacion{
+	text-decoration: none;
+	background-color: white;
+	padding-left: 6px;
+}
+
+.cajaChatConversaciones{
+	background-color: white;
+	border: 1px solid lightgray;
+	height: 50px;
+	width: 342px;
+	margin-left: -15px;
+}
+
+.enlaceConversacion:hover{
+	text-decoration: none;
+}
+
+.margenEntreChats{
+	margin-top: -1px;
+}
+
+.paraabajo{
+	margin-top: 58vh;
+}
+
+.sinborde{
+	background-color: whitesmoke;
+	border: none;
+	margin-left: -185px; 
+}
+
+.enlaceCarita{
+	text-decoration: none;
+	margin-left: 15px; 
+}
+
+.caritahappy{
+	margin-top: 0px;
+	height: 20px;
+}
+
+.chateo{
+	width: 580px;
+	margin-top: 12px;
+	margin-left: 10px;
+}
+
+.cajaChateoInput{
+	background-color: whitesmoke;
+	border: 1px solid lightgray;
+	height: 50px;
+	width: 684px;
+	margin-left: -186px;
+}
